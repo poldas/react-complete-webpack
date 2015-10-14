@@ -1,5 +1,5 @@
 body {
-	background: #eee;
+	background: #e6e6e6;
 }
 
 .this {
@@ -20,5 +20,7 @@ body {
 }
 
 .loadingElement {
-	float: right;
+	float: left;
+	font-size: 24px;
+	margin: 0 auto;
 }

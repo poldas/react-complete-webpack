@@ -4,7 +4,7 @@ import ReactLogo from "elements/ReactLogo";
 
 export default class MainMenu extends React.Component {
 	render() {
-		return <div>
+		return <div style={{border: '1px solid black'}}>
 			<ReactLogo type="svg" /> <ReactLogo type="png" /> <ReactLogo type="jpg" />
 			<h2>MainMenu:</h2>
 			<ul>
